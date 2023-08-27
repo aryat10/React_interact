@@ -1,11 +1,11 @@
 # React_interact
-This is my first repository regarding React in which I have interacted with the basic control over React using JSX feature 
+This is my first repository regarding React in which I have interacted with the basic control over React using JSX feature.
 
 
 
 
 
-More changes will be made as per the requirement on grasping more knowledge in the field of React learning 
+More changes will be made as per the requirement on grasping more knowledge in the field of React learning.
 
 I have used the learning plateform https://scrimba.com/
 
