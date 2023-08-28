@@ -12,4 +12,4 @@ I have used the learning plateform https://scrimba.com/
 
 
 
-![Screenshot 2023-08-26 180830](https://github.com/aryat10/React_interact/assets/107941072/be2c6cbe-0926-4539-8cbe-72f552e71ed0)
+![Screenshot 2023-08-26 180830](https://github.com/aryat10/React_interact/assets/107941072/be2c6cbe-0926-4539-8cbe-72f552e71ed0) which is a learning plateform as well.
