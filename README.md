@@ -7,7 +7,12 @@ This is my first repository regarding React in which I have interacted with the 
 
 More changes will be made as per the requirement on grasping more knowledge in the field of React learning.
 
-I have used the learning plateform https://scrimba.com/  which is a learning plateform as well 
+I have used the learning plateform https://scrimba.com/  which is a learning plateform as well.
+
+
+
+
+Here is the webite link which was deployed using NETLIFY  https://radiant-moxie-f7a156.netlify.app/
 
 
 
